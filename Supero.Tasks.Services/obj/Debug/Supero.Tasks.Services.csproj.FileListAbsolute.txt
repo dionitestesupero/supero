@@ -1,0 +1,15 @@
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\Supero.Tasks.Services.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\Supero.Tasks.Services.pdb
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\EntityFramework.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\EntityFramework.SqlServer.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\Supero.Tasks.Database.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\Supero.Tasks.Domain.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\Supero.Tasks.Database.pdb
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\Supero.Tasks.Domain.pdb
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\EntityFramework.xml
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\bin\Debug\EntityFramework.SqlServer.xml
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\obj\Debug\Supero.Tasks.Services.csprojAssemblyReference.cache
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\obj\Debug\Supero.Tasks.Services.csproj.CoreCompileInputs.cache
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\obj\Debug\Supero.Tasks.Services.csproj.CopyComplete
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\obj\Debug\Supero.Tasks.Services.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Services\obj\Debug\Supero.Tasks.Services.pdb

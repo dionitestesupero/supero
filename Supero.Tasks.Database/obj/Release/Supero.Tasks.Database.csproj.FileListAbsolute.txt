@@ -1,0 +1,15 @@
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\Supero.Tasks.Database.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\Supero.Tasks.Database.pdb
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\EntityFramework.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\EntityFramework.SqlServer.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\Supero.Tasks.Domain.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\Supero.Tasks.Domain.pdb
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\EntityFramework.xml
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\bin\Release\EntityFramework.SqlServer.xml
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\obj\Release\Supero.Tasks.Database.csprojAssemblyReference.cache
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\obj\Release\Supero.Tasks.Database.Migrations.first.resources
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\obj\Release\Supero.Tasks.Database.csproj.GenerateResource.cache
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\obj\Release\Supero.Tasks.Database.csproj.CoreCompileInputs.cache
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\obj\Release\Supero.Tasks.Database.csproj.CopyComplete
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\obj\Release\Supero.Tasks.Database.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Database\obj\Release\Supero.Tasks.Database.pdb

@@ -1,0 +1,5 @@
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Domain\bin\Release\Supero.Tasks.Domain.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Domain\bin\Release\Supero.Tasks.Domain.pdb
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Domain\obj\Release\Supero.Tasks.Domain.csproj.CoreCompileInputs.cache
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Domain\obj\Release\Supero.Tasks.Domain.dll
+J:\Desenvolvimento\Supero\Supero.Tasks\Supero.Tasks.Domain\obj\Release\Supero.Tasks.Domain.pdb
